@@ -4,5 +4,8 @@
   "scripts": {
     "run": "node server.js"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+  }
 }
